@@ -1,0 +1,7 @@
+Carne
+Huevos
+Leche
+Galletas
+Arroz
+Fideos
+Verduras

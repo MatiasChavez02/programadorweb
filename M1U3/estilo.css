@@ -1,0 +1,45 @@
+h1{
+    color: rgb(2, 2, 128);
+    font-family: arial;
+    text-align: center;
+    font-size: 40px;
+}
+h2{
+    color: rgb(2, 2, 128);
+    font-family: arial;
+    font-size: 30px;
+}
+.lista{
+    color: rgb(2, 2, 128);
+    font-family: arial;
+    font-weight: bold;
+}
+ul{
+    color:rgb(46, 98, 141);
+    font-family: arial;
+    font-weight: bold;
+    font-size: 20px;
+}
+p{
+    color:rgb(46, 98, 141);
+    font-family: arial;
+    font-weight: bold;
+    font-size: 20px;
+}
+h4{
+    color: rgb(2, 2, 128);
+    font-family: arial;
+    font-size: 25px;
+}
+label{
+    color:rgb(46, 98, 141);
+    font-weight: bold;
+    font-size: 20px;
+}
+body{
+    background-image: url("fondo.jpg");
+}
+img{
+    display: block;
+    margin: auto;
+}
